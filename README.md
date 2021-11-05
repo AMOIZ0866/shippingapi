@@ -1,4 +1,4 @@
-# shippingapi
+# shipping_api
 
 ## Django Apis end point. For the following:
 1. Login with phone number (receive OTP & verify)
