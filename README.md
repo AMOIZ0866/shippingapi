@@ -1,4 +1,4 @@
-# shippingapi
+# shipping_api
 
 ## Django Apis end point. For the following:
 1. Login with phone number (receive OTP & verify)
@@ -7,6 +7,7 @@
 4. Dispatch detail
 5. Arrival & Departure against dispatch
 6. Upload POD (Proof of Delivery - Image)
+
 ## Setup Project
 
 1. Clone the project using following command
